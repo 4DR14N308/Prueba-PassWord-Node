@@ -1,0 +1,44 @@
+.container {
+        display: flex;
+        background: #202020;
+        max-width: 100%;
+        margin: 0%;
+        padding: 0%;
+        align-items: flex-start;
+        height: auto;
+    }
+  
+    .input-group {
+        margin-left: calc(123px + 40px);
+        position: relative;
+        display: flex;
+        width: 25%;
+        height: 25px;
+    }
+  .item {
+    background: #202020cd;
+    width: 200px;
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .btn{
+    margin: 5px;
+  }
+  .items {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 38px;
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 92vh;
+  }
+  .itemss{
+    background: #202020;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
